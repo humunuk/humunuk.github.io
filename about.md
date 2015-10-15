@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hey! This is me:
+
+Name: Siim Kallari
+What? Developer, student and more!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+This blog is mainly for articles for university, so most probably they will be in estonian,
+but the plan is to also write something in english.
