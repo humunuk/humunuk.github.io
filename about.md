@@ -7,6 +7,7 @@ permalink: /about/
 Hey! This is me:
 
 Name: Siim Kallari
+
 What? Developer, student and more!
 
 ### More Information
