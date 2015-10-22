@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Kolm + 0,5 ebaõnnestumist IT ajaloost
 ---
 
