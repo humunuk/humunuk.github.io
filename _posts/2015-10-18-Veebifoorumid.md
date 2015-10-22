@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Veebifoorumite mõjust huvigruppide arutelu õhtutele.
 ---
 
