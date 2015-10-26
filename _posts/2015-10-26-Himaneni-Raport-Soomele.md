@@ -25,19 +25,19 @@ Sotsiaalses arengus tulevad esile 4 põhilist mõtet, mis võiksid aidata kaasa 
 
 Lühidalt võiksid need 4 põhilist ideed kõlada niimoodi:
 
-1. Loominguline majandus.
+1.Loominguline majandus.
 
 Tähendab, majanduses võiks põhirõhk olla tegevustel, mis on loomingulised, siia alla liigitab ta tugevaks arendatud IT sektori, kultuuri, hoolekande. Kõige olulisemaks peab ta IT-sektorit, kus võiks olla tugev innovaatilisus, mis kanduks edasi teistesse sektoritesse ning ka teised sektorid peavad olema innovatiivsed koos IT sektoriga, et toimuks pidev areng. Samuti toob ta esile töö vabamaks muutumise, mitte enam liinitöölise mentaliteedi järgi, vaid pigem kunstniku ja kultuuri inimese järgi. Oluline on see, et inimestel oleks vaba võimalus teha tööd nii, et nad tunnevad ennast vabalt. Oluline on ka toetada ettevõtlust ning innovatiivsust riiklikul tasandil, see tähendab luua võimalikud soodsad tingimused nende tekkeks - ühe punktina märgib ta siin, et heaolu ühiskonda hoitakse üleval maksudest laekuva summaga, aga mitte maksu protsendiga. Ühe huvitavama asjana siin valdkonnas võiks veel välja töö muutumise, kuna inimesed teevad tööd, mis neile meeldib ning selle tulemusena teevad nad ka reaalselt rohkem tööd (kodus, kus iganes).
 
-2. Loominguline heaolu ühiskond.
+2.Loominguline heaolu ühiskond.
 
 Ideena võiks siin jääda pidama varasemad heaolu ühiskonna väärtused: võrdsed võimalused kõigile, seda võiks reguleerida ja tagada riik. Küll aga toob ta välja selle, et riik ei peaks seda tegema üksinda, tähendab paljudes kohtades võiks riik olla pigem järelvaataja rollis ning anda need võimalused edasi erasektorisse ning läbi selle saaks luua ka töökohti ning jälle koguda tagasi makse. Põhiliseks aluseks siin punktis toob ta välja korraliku, kaasava ning kvaliteetse hariduse, mis nagu ikka võiks olla kättesaadav kõigile hoolimata sotsiaalsest taustast. Eraldi toob ta välja ka väikeriike - väikeriigid peaksid hoolikalt valima missuguseid spetsialiste koolitada, sest vähene rahvaarv ei luba igalpool korraga tegutseda.
 
-3. Inimestest lähtuv areng.
+3.Inimestest lähtuv areng.
 
 Siin on oluline inimese tervisele tähelepanu pööramine, läbi riiklike programmide ja teavituse. Töötajad ja tööandjad võiksid omavahel kokku leppida töö ja vaba aja tasakaalus hoidmise, suhe peaks olema vastastikkune - kui töötaja tunneb, et ta ei jõua hetkel võiks tal olla võimalus võtta mõned päevad vabaks, sama võiks olla ka tööandja puhul - kui on näha, et midagi on vaja valmis saada, siis töötaja on nõus rohkem tööd tegema, aga selle kõige keskel peab säilima tasakaal. Läbikurnatud inimene, ei saa puhata vabal ajal. Jällegi rõhutab Himanen siin seda, et inimene, kes on korralikult puhanud ja vähem stressis on ka rohkem oma tööga rahul, mis omakorda tõstab produktiivsust. Eraldi rõhutab ta ka vajadust vaimse tervise ravile, samamoodi nagu füüsilise (st seda peaks jälgima)
 
-4. Globaalne kultuur ehk, Eestis tuntud kui globaliseerumine.
+4.Globaalne kultuur ehk, Eestis tuntud kui globaliseerumine.
 
 Globaliseerumisest teeb Himanen kui võimaluse, võimaluse vananevat ühiskonda aidata ja tööjõu puudust vähendada. Rõhutab tolereerimise vajadust ning eriti vahvalt tänasepäeva kontekstis ütleb, "Me ei tohi oma piire kinni hoida". Küll aga teeb ta seda mõtestatult ning paneb rõhku ka sellele, et globaliseerumine on vastastikkune protsess ning nähtus, ehk siis, tuleks rõhuda ka sellele, et (tema puhul siis) Soomest inimesed läheksid vähemalt välisriikides õppima ning kogemusi omandama. Toob huvitava näite, kui arengu riigid saaksid lihtsamalt töölubasid, tooks see neile sisse 200 triljonit USD  aastas, mis on 4x rohkem kui aastal 2004 arenenud riikide annetused arengumaadele. Samamoodi rõhutab ta ka vaba kaubavahetust.
 
