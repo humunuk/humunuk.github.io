@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-title: Nii ta algab!
+title: Piraatlusest ning omanike õigustest.
 ---
 
 Sissejuhatuseks võib öelda nii palju, et ma pole varem mõelnud nii süvitsi (ja ka teistmoodi) copyrighted materjali peale. Üldiselt olen olnud ikkagi arvamusel, et illegaalne on illegaalne ja legaalne on legaalne.
