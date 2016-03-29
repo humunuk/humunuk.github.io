@@ -36,6 +36,9 @@ So far lessons learned:
 What would be my goals (software developement) for the next year?
 
 I am starting to analyze how to better integrated planning into process of development in small teams (means in teams where you are the architect, analyst and programmer).
+
 I would like to give a talk about my experience and software development for beginners in general in Tartu Garage48Hub.
+
 I would like to develope my skills in general in software developement.
+
 I would like to have a go to framework how to plan assignment.
